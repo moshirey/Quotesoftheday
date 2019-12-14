@@ -1,0 +1,268 @@
+<resources>
+    <string name="app_name">quotesoftheday</string>
+
+
+    <string-array name="context_menu">
+        <item>COPY</item>
+        <item>SAVE</item>
+    </string-array>
+    <string-array name="context_Favourate">
+        <item>COPY</item>
+        <item>DELETE</item>
+    </string-array>
+
+
+    //////////////qoutelist0////////////////////////////////////////////////////////////////////////
+    <string-array name="List0">
+        <item>
+        0
+       </item>
+        <item>
+           helloo from my death
+       </item>
+
+        <item>
+          iam not dead i love coding
+       </item>
+        <item>
+          1
+       </item>
+        <item>
+          2
+       </item>
+        <item>
+          3
+       </item>
+
+    </string-array>
+
+    //////////////qoutelist1////////////////////////////////////////////////////////////////////////
+    <string-array name="List1">
+       <item>
+        1
+       </item>
+        <item>
+          Keep your eyes on the stars and your feet on the ground. Theodore Roosevelt
+       </item>
+
+        <item>
+         It’s better to be a lion for a day than a sheep all your life. Elizabeth Kenny
+       </item>
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+        <item>
+        Lighten up, just enjoy life, smile more, laugh more, and don’t get so worked up about things. Kenneth Branagh
+       </item>
+        <item>
+        The trick in life is learning how to deal with it. Helen Mirren
+       </item>
+        <item>
+        Time means a lot to me because, you see, I, too, am also a learner and am often lost in the joy of forever developing and simplifying. If you love life, don’t waste time, for time is what life is made up of. Bruce Lee
+       </item>
+        <item>
+        Your goal in life is to find out the people who need you the most, to find out the business that needs you the most, to find the project and the art that needs you the most. There is something out there just for you
+       </item>
+        <item>
+        Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.
+       </item>
+        <item>
+        Go confidently in the direction of your dreams! Live the life you’ve imagined. Henry David Thoreau
+       </item>
+        <item>
+        My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style. Maya Angelou
+       </item>
+        <item>
+        The greatest discovery of any generation is that a human being can alter his life by altering his attitude. William James
+       </item>
+
+    </string-array>
+
+    //////////////qoutelist2////////////////////////////////////////////////////////////////////////
+    <string-array name="List2">
+        <item>
+        2
+       </item>
+        <item>
+          Keep your eyes on the stars and your feet on the ground. Theodore Roosevelt
+       </item>
+
+        <item>
+         It’s better to be a lion for a day than a sheep all your life. Elizabeth Kenny
+       </item>
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist3////////////////////////////////////////////////////////////////////////
+    <string-array name="List3">
+        <item>
+        3
+       </item>
+        <item>
+          Keep your eyes on the stars and your feet on the ground. Theodore Roosevelt
+       </item>
+
+        <item>
+         It’s better to be a lion for a day than a sheep all your life. Elizabeth Kenny
+       </item>
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist4////////////////////////////////////////////////////////////////////////
+    <string-array name="List4">
+        <item>
+        4
+       </item>
+
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist5////////////////////////////////////////////////////////////////////////
+    <string-array name="List5">
+        <item>
+        5
+       </item>
+
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist6////////////////////////////////////////////////////////////////////////
+    <string-array name="List6">
+
+        <item>
+        6
+       </item>
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist7////////////////////////////////////////////////////////////////////////
+    <string-array name="List7">
+        <item>
+        7
+       </item>
+
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist8////////////////////////////////////////////////////////////////////////
+    <string-array name="List8">
+        <item>
+        8
+       </item>
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist9////////////////////////////////////////////////////////////////////////
+    <string-array name="List9">
+         <item>
+        9
+       </item>
+
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist10////////////////////////////////////////////////////////////////////////
+    <string-array name="List10">
+         <item>
+        10
+       </item>
+
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+    //////////////qoutelist11////////////////////////////////////////////////////////////////////////
+    <string-array name="List11">
+        <item>
+        11
+       </item>
+
+        <item>
+        Life is a question and how we live it is our answer. Gary Keller
+       </item>
+        <item>
+         You’ve gotta dance like there’s nobody watching. William W. Purkey
+       </item>
+        <item>
+         We know what we are, but know not what we may be. William Shakespeare
+       </item>
+
+    </string-array>
+</resources>
