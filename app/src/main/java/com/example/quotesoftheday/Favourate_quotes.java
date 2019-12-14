@@ -79,7 +79,7 @@ public class Favourate_quotes extends AppCompatActivity implements AdapterView.O
 
         }
 
-
+//jrhfdsjk
 
         quotelistview.setOnItemClickListener(Favourate_quotes.this);
     }
